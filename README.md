@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # 📊 SQL Data Analytics Project  
 
 ## 🔍 Overview  
@@ -181,5 +180,3 @@ Data Analyst | SQL | Python | Power BI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/devendra-singh-adhikari)
 
 ---
-
->>>>>>> 1ae1eb35008c8fb6ff998cb278531e1f75240c7e
