@@ -1,1 +1,0 @@
-# sql-data-analytics-project
